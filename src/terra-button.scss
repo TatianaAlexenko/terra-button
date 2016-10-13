@@ -170,3 +170,8 @@ input[type='submit'].terra-Button {
 .terra-Button--huge {
   font-size: map-get($terra-button-font-sizes, huge);
 }
+
+.terra-Button--block {
+  display: block;
+  width: 100%;
+}
